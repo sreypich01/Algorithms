@@ -16,4 +16,17 @@ else:
     else:
         print("nothing")
 # Q2:Converts this tree to Python
+x=0
+y=0
+z=0
+if x>4:
+    if y>3:
+        print("nothing")
+    else:
+        print(3)
+else:
+    if z<2:
+        print("nothing")
+    else:
+        print(1)
 
